@@ -1,0 +1,193 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A ready way to prevent svdden death: being a brief and true relation of many sad misfortunes which have happened unto men, women, and children both in the citie of London, and in divers parts of the nation of England, which came through negligence, wilfulnesse, hardnesse of heart, presumption and carelesnesse. This was written and printed to the end that all people whatsoever that read or hear this little booke read, may learn to beware and prevent danger of sudden death before it comes upon them. Reader peruse this little book, and heedfully upon it look; it may preserve thy soul from strife, and through Gods blessing save thy life. / This book was written by Laurence Price, this present year 1655.</title>
+            <author>L. P. (Laurence Price), fl. 1625-1680?</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1655</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90987</idno>
+            <idno type="STC">Wing P3382</idno>
+            <idno type="STC">Thomason E1478_3</idno>
+            <idno type="STC">ESTC R208723</idno>
+            <idno type="EEBO-CITATION">99867647</idno>
+            <idno type="PROQUEST">99867647</idno>
+            <idno type="VID">119966</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A90987)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 119966)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 190:E1478[3])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A ready way to prevent svdden death: being a brief and true relation of many sad misfortunes which have happened unto men, women, and children both in the citie of London, and in divers parts of the nation of England, which came through negligence, wilfulnesse, hardnesse of heart, presumption and carelesnesse. This was written and printed to the end that all people whatsoever that read or hear this little booke read, may learn to beware and prevent danger of sudden death before it comes upon them. Reader peruse this little book, and heedfully upon it look; it may preserve thy soul from strife, and through Gods blessing save thy life. / This book was written by Laurence Price, this present year 1655.</title>
+                  <author>L. P. (Laurence Price), fl. 1625-1680?</author>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for William Gilbertson in Gilt-spur street.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1655.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "may. 29.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Death --  Early works to 1800.</term>
+               <term>Sudden death --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:119966:1"/>
+            <!-- PDF PAGE 61 -->
+            <pb facs="tcp:119966:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 61 -->
+            <p>A ready way to prevent SVDDEN DEATH: Being a brief and true Relation of many ſad misfortunes which have happened unto Men, Women, and Children both in the Citie of <hi>London,</hi> and in divers parts of the Nation of <hi>England,</hi> which came through negligence, wilfulneſſe, hardneſſe of heart, preſumption and careleſneſſe. This was Written and Printed to the end that all people whatſoever that read or hear this little Booke read, may learn to beware and prevent danger of Sudden Death before it comes upon them.</p>
+            <q>
+               <l>Reader peruſe this little Book,</l>
+               <l>And heedfully upon it look;</l>
+               <l>It may preſerve thy ſoul from ſtrife,</l>
+               <l>And through Gods bleſsing ſave thy life.</l>
+            </q>
+            <p>This Book was written by <hi>Laurence Price,</hi> this preſent year 1655.</p>
+            <p>London printed for <hi>William Gilbertſon</hi> in Gilt-ſpur ſtreet, 1655.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="2" facs="tcp:119966:2"/>
+            <!-- PDF PAGE 62 -->
+            <head>A ready Way to prevent SUDDEN DEATH.</head>
+            <div type="part">
+               <head>Here beginneth the book of ſeveral ſad Examples which have hapned unto the people of <hi>England,</hi> for want of ſerving of God, and taking good heed from March <hi>1.</hi> to this preſent time <hi>1655.</hi>
+               </head>
+               <p>BEloved Chriſtians, it is a ſaying a<g ref="char:EOLhyphen"/>mongſt many people, that there is a foreknowledge by the planets whereby the wiſards and ſoothſayers of our times can foretell what death a man or a woman ſhall die: and ſome there are that will take upon them to foretell how long the world ſhall endure, and at what time the later day ſhall come; but I am ſure they have no warrant from the word of God for what they ſay; and therefore to convince ſuch Diabolical errors, I refer you to the words of our Lord and Saviour Jeſus Chriſt, who ſaith, of that great and notable day knoweth no man, no not the Angels which are in heaven, but my Fa<g ref="char:EOLhyphen"/>ther onely, <hi>Matth.</hi> 24. 26. This place of
+<pb n="4" facs="tcp:119966:2"/>
+                  <!-- PDF PAGE 62 -->Scripture may very well ſerve to with<g ref="char:EOLhyphen"/>draw mens hearts from believing in falſe prophets, fortune-tellers, wiſards and ſoothſayers, and to put their whole truſt and confidence in the living Lord; which God give us all grace to do. And now I will tell you of a ſad misfortune which hapned to a Fortune-teller on the ſecond of <hi>March</hi> laſt. In the famous citie of <hi>Exeter</hi> there was a certaine diſſembling fellow which preſumed to ſay that he had ſuch skill in knowledge, that he could diſcern by the palm of the hand, by the viſage of the face, or by the colour of the hair, how long any man or woman ſhould live, what courſes they ſhould take, and what deaths they ſhould die. This falſe fellows name was <hi>Thomas Jones,</hi> who had ſo deluded the people, that they followed him up and down which wayſoever he went, thinking that he had paſſing skill; but all the skill he had was but to cozen them of their money, as you ſhall hear: At one end of the citie there was a great Barn which had nothing in it; to which every day for a long time together he frequented and
+<pb n="4" facs="tcp:119966:3"/>
+                  <!-- PDF PAGE 63 -->came into without the conſent of the ow<g ref="char:EOLhyphen"/>ner; and as often as he came thither, a multitude of ſimple people followed him; but without money he would do nothing. Moreover he ſaid, that if they would not believe that he could do them good, and give them ſatisfaction for what they came for, he would not meddle with them. This ſet ſuch an edge upon the fancy of the people, that ſome gave him money, others gave him cheeſe and bacon, and ſome gave him the clothes from their backs, becauſe they had nothing elſe to give him. But at the laſt ſome of the Ma<g ref="char:EOLhyphen"/>giſtrates of the citie finding themſelves agrived at his doings, they ſent officers which apprehended him and brought him to priſon; where when he had lain there the matter of four hours, the Divell ap<g ref="char:EOLhyphen"/>peared to him in a bodily ſhape, and bade him to hang himſelfe, or cut his owne throat: whereupon he cried out with ſuch a lowd voyce, inſomuch that the Keeper of the priſon came into the room where he was, and asked him what was the mat<g ref="char:EOLhyphen"/>ter, who told him that he had given him
+<pb n="5" facs="tcp:119966:3"/>
+                  <!-- PDF PAGE 63 -->ſelf to the Divell ſome 3 years ſince, and that he was now come for him, and that he bade him cut his own throat: Where<g ref="char:EOLhyphen"/>upon the Keeper looking round about, and ſaw nothing appear, told him that it was but his fancy to think ſo, and therefore bade him ſerve God and repent him of his ſins, and he ſhould be ſure to prevent the danger of ſudden death, and that the Divel ſhould have no power over him: to whom he anſwered, that he had done ſo many villanies and traſpaſſes againſt God and the world, that his ſins could never be forgiven. The Keeper deſired him to pray; he anſwered, that his heart was ſo much hardned, that God had forſaken him, and that he had no power to pray. Then the Keeper ſearcht his pockets, and took away his knife, and the garters from his legs, becauſe he ſhould do himſelf no harm, and ſo went out of the room, think<g ref="char:EOLhyphen"/>ing to have ſent ſome body to keep him company, till he had order from the officers to let him goe: but he having a knife in the skirt of his Coat, which the Keeper knew not of, cut his own throat
+<pb n="6" facs="tcp:119966:4"/>
+                  <!-- PDF PAGE 64 -->therewith, before any one could come to him; and there was an end of a falſe blaſ<g ref="char:EOLhyphen"/>phemous, diſſembling hypocrite: God grant that others may take example hy his death, and learn to amend their ſinfull lives.</p>
+            </div>
+            <div type="part">
+               <head>Here followeth another ſad Example which was done at <hi>Collyweſton</hi> two miles from <hi>Stamford,</hi> March <hi>20. 1655.</hi>
+               </head>
+               <p>THere lived in the Pariſh of <hi>Collyweſton</hi> a young man whoſe name was <hi>Francis Jarvice,</hi> who fell in love with a beautiful maid that dwelt in the ſame pariſh; and ſo between them two there was no love loſt, for ſhe loved him as dearly as ever woman loved man, as you ſhall hear: this loving couple having made a match toge<g ref="char:EOLhyphen"/>ther between themſelves, appointed a day to be married on; and when the time was near at hand, the young woman all too late, ſhe being great with child, made her father and mother acquainted with her mind, and how ſhe had made a promiſe to be married on ſuch a day; which when her father heard, he became like a mad
+<pb n="7" facs="tcp:119966:4"/>
+                  <!-- PDF PAGE 64 -->man, and in his angry mood did ſwear, that if ſhe married with ſuch a beggarly fellow as <hi>Francis Jarvice,</hi> he would never own her for his child; an ſaid, that he had rather keep the baſtard when it was born, then that ſhe ſhould marry with him: whereupon ſhe made and errand to <hi>Stamford,</hi> as if ſhe were to buy poyſon to poyſon the Rats; but by the way coming home ſhe poyſoned her ſelf, and the infant within her, and ſo ſhe died a ſudden and deſperate death: which when her ſweet<g ref="char:EOLhyphen"/>heart heard of, he vowed never to eat nor to drink, nor to take any ſuſtenance whilſt he lived in this world, and ſo pined himſelf and died. Her father ran about being di<g ref="char:EOLhyphen"/>ſtracted of his wits, and threw himſelf off from a high gallery &amp; broke his neck. Her mother drowned her ſelf in a deep Draw<g ref="char:EOLhyphen"/>well; whoſe ſudden deaths and untimely ends many thouſands do lament.</p>
+               <p>About that very ſame time there was a ſad diſaſter hapned to a ſervant maid near unto <hi>Smithfield Bars</hi> in <hi>London</hi> at the ſign of the <hi>Caſtle;</hi> which maid went up into a high room to hang out cloathes to dry
+<pb n="8" facs="tcp:119966:5"/>
+                  <!-- PDF PAGE 65 -->out at a window upon poles which were made for that purpoſe; but for want of taking good heed, the pole which ſhe put truſt unto, ſlipt away from her, and ſo lo<g ref="char:EOLhyphen"/>ſing her hold, ſhe fell out of the window and daſht out her brains againſt the ſtones, and had never the power to call upon God for mercy, nor to ſpeak one word to any man or woman, and ſo poor ſoul ſhe came by a ſudden and untimely death, which might have been prevented if ſhe had taken better heed; for certainly if ſhe had thought that her death had been ſo near at hand, ſhe would have had a better care of herſelfe. The truth of the matter here. ſpoken of, there are more then a thouſand people that can witneſſe, which be held the maid after ſhe was dead, and ſome of them that were eye witneſſes, de<g ref="char:EOLhyphen"/>ſired that it might be put in print, becauſe all other ſervants that goe careleſly about their buſineſſe, may by this ſad example ſerve God, and take a care of themſelves.</p>
+            </div>
+            <div type="part">
+               <head>Here followeth another ſad example very neceſſary to be had in memory.</head>
+               <pb n="9" facs="tcp:119966:5"/>
+               <!-- PDF PAGE 65 -->
+               <p>In the county of <hi>Suffolk,</hi> at a town called <hi>Bugles,</hi> there lived a man named <hi>William Tite,</hi> being poſſeſt of an evill quality of jealouſie: Upon a certain time he made ſhew of love to his wife, ſo caught her in his arms, ſet her upon his knee as they ſate in a chair, and with a Judas kiſſe ſaluted her, and ſaid unto her as followeth: Ah my dear and loving wife, that haſt been always faithful and true unto me, now my conſcience accuſeth me that I have done thee great wrong, laying that to thy charge, that I know thee to be guiltleſſe of: And for the ſeverall abuſes which I have done thee, I am heartily ſory, and henceforth I proteſt never to abuſe thee more. The woman being over-joy'd with her husbands comfortable words, made him this reply; Husband I thank you for your good words, and I hope that good deeds will follow after. Yes, ſaid he, your deſires ſhall quickly be fulfilled; and with that word having a knife which he had prepared for that purpoſe, put his hand under her Apron, and ript up her bowels and belly, inſomuch that the child
+<pb n="10" facs="tcp:119966:6"/>
+                  <!-- PDF PAGE 66 -->which was in her womb, fell out on the ground, and ſprawled before him. And having done his miſchief, preſently ran away from the place, and came to <hi>Yar<g ref="char:EOLhyphen"/>mouth,</hi> and was entertained into a Ship to goe beyond the Seas; but as they were fai<g ref="char:EOLhyphen"/>ling along on the ſalt Seas, there ſuddenly aroſe a mighty tempeſt of weather, both of thunder and lightning, wind and rain, that the like hath but ſeldome been ſeen or known. Whereupon the Maſter of the ſhip deſired all the people that were in the ſhip to joyn with him in prayer, that God would be pleaſed to pre<g ref="char:EOLhyphen"/>ſerve them and their ſhip from the dan<g ref="char:EOLhyphen"/>gers of the ſurging and mercileſſe waves. Then ſaid <hi>William Tite</hi> that had murdred his wife ſo bloodily, making a ſcoff of that which the Maſter of the ſhip had ſpoken, ſaying as followeth, As for my part I need not fear drowning, for I was born to be hang'd: for I kild my wife but three dayes before I came on ſhipboard, and I will ſee you all damn'd before I will pray for any of you all. There was at that time a luſty young man in the ſhip named
+<pb n="11" facs="tcp:119966:6"/>
+                  <!-- PDF PAGE 66 -->
+                  <hi>Miles Johnſon,</hi> who ran unto him and ſaid, It may be that it is for thy wickedneſſs that our ſhip is ſo troubled, and our lives in ſuch extream danger, and therefore if thou wilt not pray unto God to deliver thy ſelf and us from perill, I will preſently throw thee over the ſhipboard &amp; drown thee, and ſo thou ſhalt never live to be hanged. Then ſaid <hi>William Tite,</hi> hang me or drown me, or cut my throat, or doe what you will with me, you ſhall never make me to ſay any prayer, for the ſafe<g ref="char:EOLhyphen"/>guard of our lives. Whereupon the young man having the conſent of ſome others that were in the ſhip, took him by the twiſt, and threw him headlong into the Sea, and left him to the mercy of the waves, for he was no more to be ſeene; and immediatly the tempeſt abated, and the wether became temperate, and they all praiſed God for their deliverance.</p>
+               <p>The Ship which they were in, had a Dutch Skipper, which ſerved to carry paſſengers to and again. The certainty of this matter was written in a Letter by <hi>James Roberts, Thomas Moody,</hi> and <hi>Roger
+<pb n="12" facs="tcp:119966:7"/>
+                     <!-- PDF PAGE 67 -->Gale,</hi> which were then aboard the Ship, and ſent to <hi>London</hi> on purpoſe to have it printed, for others to take warning by, and to avoid murder and blaſphemy.</p>
+            </div>
+            <div type="part">
+               <head>Here followeth a moſt ſtrange and miraculous Ex<g ref="char:EOLhyphen"/>ample of a great deliverance and preſervation of a woman from ſudden death, by the providence of Almighty God, the like whereof was never heard of before; and this it was.</head>
+               <p>THere lived in the County of <hi>Kent</hi> a Gentleman of good Rank and quality, who had great ſtore of money at com<g ref="char:EOLhyphen"/>mand, and did uſually lend and lay out, and take in mighty great ſums. This gen<g ref="char:EOLhyphen"/>tleman oftentimes frequented to come to the Citie of <hi>London</hi> to buy and to ſell, ha<g ref="char:EOLhyphen"/>ving to his wife a very modeſt, civill, wel<g ref="char:EOLhyphen"/>governed woman, and one that feared God, with whom her husband left all the ſubſtance that he had. Upon a time when the gentleman was from home, there came a great company of villains, thieves and robbers to the houſe, and ſurprized the ſervants, and bound them with cords,
+<pb n="13" facs="tcp:119966:7"/>
+                  <!-- PDF PAGE 67 -->hands and feet; and after coming into the room where the gentlewoman her ſelf was, and commanded her to bring them and to ſhew them the place where her husbands mony bags all were: The wo<g ref="char:EOLhyphen"/>man being in a maze, knew not what to doe, but being in danger of her life, but praid them even for Gods ſake to ſpare her life, and ſhe would doe for them all that ſhe could; and ſo ſhe brought them to a room where was great ſtore of gold and ſilver, money and plate, and other rich commodities which they took away and loaded ſome of their horſes with; but ha<g ref="char:EOLhyphen"/>ving not enough to ſatisfie their greedy deſire, they eame again to the woman, and ſaid they would hang her, if ſhe would not help them to more mony. She anſwered, that ſhe knew of never a peny but what they had already. Whereupon one of the villains took her and would have raviſhed her, &amp; afterwards like a mercileſs wretch hanged her up by the neck in a ſilk ſcarſe which ſhe had about her middle: which being done, he went againe with ſome others of his fellows, and ſearched
+<pb n="14" facs="tcp:119966:8"/>
+                  <!-- PDF PAGE 68 -->every room about the houſe, and tooke what they could find; and coming backe again the ſame way that they went, they found the woman praying upon her knees, and praiſing God for her preſervations for the knot which they had tied was loo<g ref="char:EOLhyphen"/>ſened, and ſo ſhe fell to the ground, by what means ſhe her ſelf nor none elſe doth know. Then they tooke her and hanged her the ſecond time with a bridle of one of their horſes, ſaying, if that were not ſtrong enough, that they would be hanged for her. Which being done, the Thieves made away. Now mark well what af<g ref="char:EOLhyphen"/>terwards came to paſſe, it pleaſed God that with her ſtruggling and ſtriving when they were gone, that the bridle broke and ſhe fell to the ground again. And when her husband came home, ſhe having reco<g ref="char:EOLhyphen"/>vered her ſenſes and health, told him of all the paſſages which had hapned unto her. Not long time after that her huſ<g ref="char:EOLhyphen"/>band and ſhe came to <hi>London</hi> about ſome buſineſſe which they had to doe; and on the day when the great ſhew was to be ſeen in the fields with the Train bands of
+<pb n="15" facs="tcp:119966:8"/>
+                  <!-- PDF PAGE 68 -->
+                  <hi>London,</hi> the gentleman and his wife were there, and ſtanding near unto the Tent where my Lord Mayor was, the woman ſaw the man which had hanged her, and done her all the wrong, and knowing him to be the ſame, cauſed him to be appre<g ref="char:EOLhyphen"/>hended and ſent to the priſon of <hi>Newgate,</hi> and being arraigned at the Barre for his life, confeſt the matter, and peacht others of his companions, For which offence there were five of them taken and con<g ref="char:EOLhyphen"/>demned to dye, of which one was preſt to death, and the other four with two other offenders, were hunged at <hi>Tyburn</hi> in <hi>A<g ref="char:EOLhyphen"/>pril</hi> the laſt day of the Moneth, whoſe names were as followeth,</p>
+               <p>Mr, <hi>Preſcot,</hi> Mr. <hi>Baxter,</hi> Mr. <hi>Taylor,</hi> Mr. <hi>Horton,</hi> Mr. <hi>Loveridge,</hi> all hang'd to death, Mr. <hi>Hancock</hi> preſt to death.</p>
+               <p>The truth of this may be verified by more then ten thouſand people which ſaw them ſuffer at the place of Execu<g ref="char:EOLhyphen"/>tion.</p>
+               <p>By this we may ſee how powerful &amp; how mercifull God is to them that put their truſt in the Lord: Therefore let no man
+<pb n="16" facs="tcp:119966:9"/>
+                  <!-- PDF PAGE 69 -->nor woman think that any one is able to foretell or know what God will have brought to paſſe. And of this be ſure, that God will never leave us nor forſake us, except we leave him and forſake him firſt: therefore I deſire all good people to ſerve God truly and duly both day and night, and to pray unto him that he will be pleaſed to guide our hearts and mindes in the true knowledge of God, and of his Son our Lord Jeſus Chriſt, to whom be aſcribed all honor and power, might, ma<g ref="char:EOLhyphen"/>jeſty, and thankeſgiving.</p>
+               <trailer>FINIS.</trailer>
+               <pb facs="tcp:119966:9"/>
+               <!-- PDF PAGE 69 -->
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
